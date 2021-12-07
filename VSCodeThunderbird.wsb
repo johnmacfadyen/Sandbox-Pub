@@ -1,12 +1,12 @@
 <Configuration>
     <MappedFolders> 
         <MappedFolder> 
-            <HostFolder><absolute path to user profile>\Downloads</HostFolder> 
+            <HostFolder><absolute path>\Downloads</HostFolder> 
                 <SandboxFolder>C:\Users\WDAGUtilityAccount\Downloads</SandboxFolder> 
                 <ReadOnly>true</ReadOnly> 
         </MappedFolder>
          <MappedFolder> 
-            <HostFolder><absolute path to user profile>\Documents\Sandbox-Pub\Scripts</HostFolder> 
+            <HostFolder><absolute path>\Sandbox-Pub\Scripts</HostFolder> 
                 <ReadOnly>true</ReadOnly> 
         </MappedFolder>
     </MappedFolders>
